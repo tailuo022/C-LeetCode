@@ -1,7 +1,0 @@
-﻿  20250131.c
-D:\我是sb我学习\vs2022C代码\LeetCode\20250131\20250131\20250131.c(13,7): warning C4047: “=”:“char *”与“char”的间接级别不同
-D:\我是sb我学习\vs2022C代码\LeetCode\20250131\20250131\20250131.c(28,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“char **”
-D:\我是sb我学习\vs2022C代码\LeetCode\20250131\20250131\20250131.c(31,13): warning C4047: “函数”:“char *”与“char”的间接级别不同
-D:\我是sb我学习\vs2022C代码\LeetCode\20250131\20250131\20250131.c(31,13): warning C4024: “reverseStr”: 形参和实参 1 的类型不同
-D:\我是sb我学习\vs2022C代码\LeetCode\20250131\20250131\20250131.c(25,1): warning C4716: “reverseStr”: 必须返回一个值
-  20250131.vcxproj -> D:\我是sb我学习\vs2022C代码\LeetCode\20250131\x64\Debug\20250131.exe
